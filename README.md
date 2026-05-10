@@ -1,9 +1,41 @@
 # Projects Portfolio — Readable View
 
-Updated on 2026-05-10. Ordered by latest activity (owned non-fork repositories).
+Updated on 2026-05-10. Ordered by latest activity (owned non-fork repositories from `patchamama`).
 
-## 1. 📁 [Challenges-studies-summaries-snippets](https://github.com/patchamama/Challenges-studies-summaries-snippets)
-🗓️ **2023-11-18 → 2026-05-10** · 🧩 **Frameworks:** React, NestJS, Django, Laravel
+## 1. 📁 [last_projects_summary](https://github.com/patchamama/last_projects_summary)
+🗓️ **2026-05-10 → 2026-05-10** · 💻 **Languages:** — · 🧩 **Frameworks:** React Native, Nuxt.js, Svelte, Angular, NestJS, FastAPI, Django, Flask, Streamlit, Laravel, Symfony, Ruby on Rails, Spring Boot, Vite, Astro
+🌐 **Deploy / Pages:** [https://ehmatthes.github.io/pcc_3e/](https://ehmatthes.github.io/pcc_3e/) | [https://patchamama.github.io/diveintopython3/](https://patchamama.github.io/diveintopython3/) | [https://github-readme-stats.vercel.app/api?username=patchamama&show_icons=true&theme=dracula&show=reviews,prs_merged&count_private=true](https://github-readme-stats.vercel.app/api?username=patchamama&show_icons=true&theme=dracula&show=reviews,prs_merged&count_private=true)
+
+Updated on 2026-05-10. Ordered by latest activity (owned non-fork repositories). 🗓️ **2023-11-18 → 2026-05-10** · 🧩 **Frameworks:** React, NestJS, Django, Laravel
+
+<details>
+<summary>Hidden details (ready to expand)</summary>
+
+- ⭐ Stars: 0
+- 🍴 Forks: 0
+- 🐞 Open issues: 0
+- ✅ TODO: _Add next action manually_
+
+</details>
+
+## 2. 📁 [bloxp-revived](https://github.com/patchamama/bloxp-revived)
+🗓️ **2026-04-28 → 2026-05-10** · 💻 **Languages:** Python, TypeScript, Shell, Batchfile · 🧩 **Frameworks:** FastAPI, Vite
+🌐 **Deploy / Pages:** —
+
+**Convert any blog into a downloadable ebook — ePub, Mobi, or PDF.** A modern open-source recreation of the original Bloxp — a tool that disappeared from the internet around 2020. This project brings it back with a contemporary stack while 
+
+<details>
+<summary>Hidden details (ready to expand)</summary>
+
+- ⭐ Stars: 0
+- 🍴 Forks: 0
+- 🐞 Open issues: 0
+- ✅ TODO: _Add next action manually_
+
+</details>
+
+## 3. 📁 [Challenges-studies-summaries-snippets](https://github.com/patchamama/Challenges-studies-summaries-snippets)
+🗓️ **2023-11-18 → 2026-05-10** · 💻 **Languages:** — · 🧩 **Frameworks:** NestJS, Django, Laravel
 🌐 **Deploy / Pages:** [https://ehmatthes.github.io/pcc_3e/](https://ehmatthes.github.io/pcc_3e/) | [https://patchamama.github.io/diveintopython3/](https://patchamama.github.io/diveintopython3/)
 
 In this repository I collect my current study materials, challenges, exercises I am involved in and my code snippets. _https://gist.github.com/patchamama_
@@ -18,40 +50,8 @@ In this repository I collect my current study materials, challenges, exercises I
 
 </details>
 
-## 2. 📁 [last_projects_summary](https://github.com/patchamama/last_projects_summary)
-🗓️ **2026-05-10 → 2026-05-10** · 🧩 **Frameworks:** React Native, React, NestJS, Express, Django, Flask, Streamlit, Vite
-🌐 **Deploy / Pages:** —
-
-Professional snapshot of my latest 50 owned non-fork GitHub repositories, designed for quick tracking and follow-up. **Last Updated (UTC):** 2026-05-10T17:52:06Z
-
-<details>
-<summary>Hidden details (ready to expand)</summary>
-
-- ⭐ Stars: 0
-- 🍴 Forks: 0
-- 🐞 Open issues: 0
-- ✅ TODO: _Add next action manually_
-
-</details>
-
-## 3. 📁 [bloxp-revived](https://github.com/patchamama/bloxp-revived)
-🗓️ **2026-04-28 → 2026-05-10** · 💻 **Languages:** Python, TypeScript, Shell, Batchfile · 🧩 **Frameworks:** React, FastAPI, Vite
-🌐 **Deploy / Pages:** —
-
-**Convert any blog into a downloadable ebook — ePub, Mobi, or PDF.** A modern open-source recreation of the original Bloxp — a tool that disappeared from the internet around 2020. This project brings it back with a conte
-
-<details>
-<summary>Hidden details (ready to expand)</summary>
-
-- ⭐ Stars: 0
-- 🍴 Forks: 0
-- 🐞 Open issues: 0
-- ✅ TODO: _Add next action manually_
-
-</details>
-
 ## 4. 📁 [audio_library_catalog_manager_player](https://github.com/patchamama/audio_library_catalog_manager_player)
-🗓️ **2026-05-06 → 2026-05-10** · 💻 **Languages:** PHP, TypeScript, CSS, JavaScript · 🧩 **Frameworks:** React, Svelte, Astro
+🗓️ **2026-05-06 → 2026-05-10** · 💻 **Languages:** PHP, TypeScript, CSS, JavaScript · 🧩 **Frameworks:** Svelte, Astro
 🌐 **Deploy / Pages:** —
 
 Plataforma de reproducción de audiolibros y videos construida como sitio estático. - URL pública: `/_audios/player/`
@@ -67,10 +67,10 @@ Plataforma de reproducción de audiolibros y videos construida como sitio estát
 </details>
 
 ## 5. 📁 [Vocabox-Phase6-learning-languages](https://github.com/patchamama/Vocabox-Phase6-learning-languages)
-🗓️ **2026-04-10 → 2026-05-09** · 💻 **Languages:** TypeScript, Python, HTML, Shell · 🧩 **Frameworks:** React, FastAPI, Vite
+🗓️ **2026-04-10 → 2026-05-09** · 💻 **Languages:** TypeScript, Python, HTML, Shell · 🧩 **Frameworks:** FastAPI, Vite
 🌐 **Deploy / Pages:** —
 
-A mobile-first Progressive Web App for vocabulary learning based on the **Leitner box system** (7-box spaced repetition). Cards advance through boxes as you answer correctly, and intervals grow automatically — so you rev
+A mobile-first Progressive Web App for vocabulary learning based on the **Leitner box system** (7-box spaced repetition). Cards advance through boxes as you answer correctly, and intervals grow automatically — so you review what you're abou
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -118,7 +118,7 @@ ollama pull hf.co/unsloth/GLM-4.7-Flash-GGUF:UD-Q4_K_XL ollama run qwen3.6:27b-c
 🗓️ **2026-04-24 → 2026-04-29** · 💻 **Languages:** Shell, Batchfile, HTML, PowerShell · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
-A deployment toolkit that wraps Ollama with a Caddy reverse proxy to provide HTTPS, CORS headers, and a mock authentication endpoint. The goal is to make a local Ollama instance behave like a cloud API provider — enablin
+A deployment toolkit that wraps Ollama with a Caddy reverse proxy to provide HTTPS, CORS headers, and a mock authentication endpoint. The goal is to make a local Ollama instance behave like a cloud API provider — enabling direct integration
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -131,10 +131,10 @@ A deployment toolkit that wraps Ollama with a Caddy reverse proxy to provide HTT
 </details>
 
 ## 9. 📁 [desploy-apps-manager](https://github.com/patchamama/desploy-apps-manager)
-🗓️ **2026-01-22 → 2026-04-20** · 💻 **Languages:** PHP, CSS, JavaScript, Shell · 🧩 **Frameworks:** Next.js, Nuxt.js, React, Vue, Angular, NestJS, Express, FastAPI, Django, Flask, Streamlit, Laravel, Symfony, Ruby on Rails, Spring Boot, Vite
+🗓️ **2026-01-22 → 2026-04-20** · 💻 **Languages:** PHP, CSS, JavaScript, Shell · 🧩 **Frameworks:** Nuxt.js, Angular, NestJS, FastAPI, Django, Flask, Streamlit, Laravel, Symfony, Ruby on Rails, Spring Boot, Vite
 🌐 **Deploy / Pages:** —
 
-A comprehensive web-based application deployment and management platform that simplifies the deployment, execution, and monitoring of multiple frontend and backend applications built with different frameworks. To create 
+A comprehensive web-based application deployment and management platform that simplifies the deployment, execution, and monitoring of multiple frontend and backend applications built with different frameworks. To create a unified, easy-to-u
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -147,7 +147,7 @@ A comprehensive web-based application deployment and management platform that si
 </details>
 
 ## 10. 📁 [patchamama](https://github.com/patchamama/patchamama)
-🗓️ **2023-09-26 → 2026-05-10** · 🧩 **Frameworks:** React, Django, Flask, Laravel
+🗓️ **2023-09-26 → 2026-05-10** · 💻 **Languages:** — · 🧩 **Frameworks:** Django, Flask, Laravel
 🌐 **Deploy / Pages:** [https://github-readme-stats.vercel.app/api?username=patchamama&show_icons=true&theme=dracula&show=reviews,prs_merged&count_private=true](https://github-readme-stats.vercel.app/api?username=patchamama&show_icons=true&theme=dracula&show=reviews,prs_merged&count_private=true) | [https://github-readme-stats.vercel.app/api/top-langs/?username=patchamama&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=patchamama&layout=compact&langs_count=7&theme=dracula) | [https://a3510377.github.io/devicon/](https://a3510377.github.io/devicon/)
 
 https://a3510377.github.io/devicon/ https://github.com/anuraghazra/github-readme-stats
@@ -166,7 +166,7 @@ https://a3510377.github.io/devicon/ https://github.com/anuraghazra/github-readme
 🗓️ **2026-04-04 → 2026-04-05** · 💻 **Languages:** PHP · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
-> **⚠ SECURITY WARNING:** This script provides unauthenticated access to your database and server filesystem. **Never leave it on a production server.** See the Security section below. A powerful, browser-based MySQL imp
+> **⚠ SECURITY WARNING:** This script provides unauthenticated access to your database and server filesystem. **Never leave it on a production server.** See the Security section below. A powerful, browser-based MySQL import tool originally 
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -182,7 +182,7 @@ https://a3510377.github.io/devicon/ https://github.com/anuraghazra/github-readme
 🗓️ **2026-03-28 → 2026-03-28** · 💻 **Languages:** Python, JavaScript · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
-Language-agnostic static validator for web projects.Python · JavaScript · CSS · HTML — one command, one report. Most projects start without a formal test suite. Structural errors accumulate silently: an import that stopp
+Language-agnostic static validator for web projects.Python · JavaScript · CSS · HTML — one command, one report. Most projects start without a formal test suite. Structural errors accumulate silently: an import that stopped working after a r
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -195,7 +195,7 @@ Language-agnostic static validator for web projects.Python · JavaScript · CSS 
 </details>
 
 ## 13. 📁 [NebulaSearch-aiDMS](https://github.com/patchamama/NebulaSearch-aiDMS)
-🗓️ **2026-03-28 → 2026-03-28** · 🧩 **Frameworks:** None detected
+🗓️ **2026-03-28 → 2026-03-28** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
 No description available.
@@ -211,7 +211,7 @@ No description available.
 </details>
 
 ## 14. 📁 [GitHub-File-Renderer](https://github.com/patchamama/GitHub-File-Renderer)
-🗓️ **2026-03-23 → 2026-03-23** · 💻 **Languages:** TypeScript, CSS, HTML, JavaScript · 🧩 **Frameworks:** React, Vite
+🗓️ **2026-03-23 → 2026-03-23** · 💻 **Languages:** TypeScript, CSS, HTML, JavaScript · 🧩 **Frameworks:** Vite
 🌐 **Deploy / Pages:** [https://patchamama.github.io/GitHub-File-Renderer/](https://patchamama.github.io/GitHub-File-Renderer/) | [https://img.shields.io/badge/Live%20Demo-patchamama.github.io-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Live%20Demo-patchamama.github.io-blue?style=for-the-badge&logo=github) | [https://<your-username>.github.io/<repo-name>/`](https://<your-username>.github.io/<repo-name>/`)
 
 **Render any GitHub file in the browser — HTML, Markdown, CSS, XML and more.** No backend. No setup. Just paste a URL.
@@ -246,7 +246,7 @@ No description available.
 🗓️ **2025-11-17 → 2025-12-16** · 💻 **Languages:** HTML · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** [https://patchamama.github.io/Interactive-Video-Navigator/](https://patchamama.github.io/Interactive-Video-Navigator/)
 
-El objetivo de este proyecto es crear varias aplicaciones/herramientas relacionadas con videos, subtitulos, que permitan el trabajo con videos y audiovisuales, y soluciones a problemas frecuentes en relación a estos. Dep
+El objetivo de este proyecto es crear varias aplicaciones/herramientas relacionadas con videos, subtitulos, que permitan el trabajo con videos y audiovisuales, y soluciones a problemas frecuentes en relación a estos. Deployment: https://pat
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -259,7 +259,7 @@ El objetivo de este proyecto es crear varias aplicaciones/herramientas relaciona
 </details>
 
 ## 17. 📁 [Simulador-de-cajero-de-supermercado-REWE](https://github.com/patchamama/Simulador-de-cajero-de-supermercado-REWE)
-🗓️ **2025-11-22 → 2025-11-28** · 🧩 **Frameworks:** None detected
+🗓️ **2025-11-22 → 2025-11-28** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
 https://www.rewe.de/shop/productList?search= [!NOTE] Los productos BIOS tienen el código impreso/pegado en la cubierta. Kakis tienen todos sus códigos. Kiwi (normalmente tienen el código)
@@ -291,7 +291,7 @@ https://www.rewe.de/shop/productList?search= [!NOTE] Los productos BIOS tienen e
 </details>
 
 ## 19. 📁 [task-manager-example](https://github.com/patchamama/task-manager-example)
-🗓️ **2025-11-03 → 2025-11-05** · 💻 **Languages:** TypeScript, JavaScript, CSS, HTML · 🧩 **Frameworks:** React, Vite
+🗓️ **2025-11-03 → 2025-11-05** · 💻 **Languages:** TypeScript, JavaScript, CSS, HTML · 🧩 **Frameworks:** Vite
 🌐 **Deploy / Pages:** —
 
 A modern task management application built with React 19, TypeScript, and following TDD principles with strict architectural patterns. - **React 19** - UI Framework
@@ -310,7 +310,7 @@ A modern task management application built with React 19, TypeScript, and follow
 🗓️ **2025-10-29 → 2025-10-29** · 💻 **Languages:** HTML, Go, Shell · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
-Este proyecto implementa un sistema de votación completo usando Go con soporte para **MySQL**, **PostgreSQL** y **MongoDB**. Incluye API REST, autenticación por tokens y documentación Swagger. - ✅ **MySQL** (predetermina
+Este proyecto implementa un sistema de votación completo usando Go con soporte para **MySQL**, **PostgreSQL** y **MongoDB**. Incluye API REST, autenticación por tokens y documentación Swagger. - ✅ **MySQL** (predeterminado)
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -339,7 +339,7 @@ This project implements a simple voting system using Django, Django REST Framewo
 </details>
 
 ## 22. 📁 [devtalles-react](https://github.com/patchamama/devtalles-react)
-🗓️ **2023-10-31 → 2025-10-15** · 💻 **Languages:** TypeScript, HTML, CSS, JavaScript · 🧩 **Frameworks:** React Native, React, Vue, Angular, Vite
+🗓️ **2023-10-31 → 2025-10-15** · 💻 **Languages:** TypeScript, HTML, CSS, JavaScript · 🧩 **Frameworks:** React Native, Angular, Vite
 🌐 **Deploy / Pages:** [https://patchamama.github.io/devtalles-react/](https://patchamama.github.io/devtalles-react/)
 
 _https://cursos.devtalles.com/courses/take/react-cero-experto_ Notas de antiguo curso con Javascript
@@ -355,7 +355,7 @@ _https://cursos.devtalles.com/courses/take/react-cero-experto_ Notas de antiguo 
 </details>
 
 ## 23. 📁 [devtalles-react-socket](https://github.com/patchamama/devtalles-react-socket)
-🗓️ **2025-10-05 → 2025-10-08** · 💻 **Languages:** HTML, JavaScript · 🧩 **Frameworks:** React, Express
+🗓️ **2025-10-05 → 2025-10-08** · 💻 **Languages:** HTML, JavaScript · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
 Deploy en: Servidor propio const app = require('express')
@@ -371,7 +371,7 @@ Deploy en: Servidor propio const app = require('express')
 </details>
 
 ## 24. 📁 [prototype-fast-dev-nodeJS-API](https://github.com/patchamama/prototype-fast-dev-nodeJS-API)
-🗓️ **2023-09-12 → 2024-09-08** · 💻 **Languages:** JavaScript · 🧩 **Frameworks:** React, Express, Django, Ruby on Rails
+🗓️ **2023-09-12 → 2024-09-08** · 💻 **Languages:** JavaScript · 🧩 **Frameworks:** Django, Ruby on Rails
 🌐 **Deploy / Pages:** [https://prototype-fast-dev-nodejs-api-example.onrender.com/api/users](https://prototype-fast-dev-nodejs-api-example.onrender.com/api/users) | [https://prototype-fast-dev-nodejs-api-example.onrender.com/api/prototypes](https://prototype-fast-dev-nodejs-api-example.onrender.com/api/prototypes) | [http://ecotrust-canada.github.io/markdown-toc/](http://ecotrust-canada.github.io/markdown-toc/)
 
 **DRY (don't repeat yourself)** _Aiming to provide a project structure in nodeJS following good practices to achieve a fast development of an API to achieve its deployment._
@@ -390,7 +390,7 @@ Deploy en: Servidor propio const app = require('express')
 🗓️ **2025-09-20 → 2025-09-24** · 💻 **Languages:** Python · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
-**AIOnMail** is a project that enables access to artificial intelligence models (such as OpenAI’s ChatGPT, Gemini or local Ollama instances) **using only email**. Automated email processing system using artificial intell
+**AIOnMail** is a project that enables access to artificial intelligence models (such as OpenAI’s ChatGPT, Gemini or local Ollama instances) **using only email**. Automated email processing system using artificial intelligence. Detects emai
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -403,7 +403,7 @@ Deploy en: Servidor propio const app = require('express')
 </details>
 
 ## 26. 📁 [fullstackopen-part10-React-Native](https://github.com/patchamama/fullstackopen-part10-React-Native)
-🗓️ **2025-05-24 → 2025-05-25** · 💻 **Languages:** JavaScript · 🧩 **Frameworks:** React Native, React
+🗓️ **2025-05-24 → 2025-05-25** · 💻 **Languages:** JavaScript · 🧩 **Frameworks:** React Native
 🌐 **Deploy / Pages:** —
 
 _https://fullstackopen.com/en/part10_ - Exercise 10.3 | Exercise 10.4 | Exercise 10.5 | Exercise 10.6 | Exercise 10.7 | Exercise 10.8 | Exercise 10.9 | Exercise 10.10
@@ -422,7 +422,7 @@ _https://fullstackopen.com/en/part10_ - Exercise 10.3 | Exercise 10.4 | Exercise
 🗓️ **2023-06-15 → 2025-05-11** · 💻 **Languages:** Python, HTML, CSS, Dockerfile · 🧩 **Frameworks:** Django
 🌐 **Deploy / Pages:** [https://bookstore-loans-804dfdc18356.herokuapp.com/](https://bookstore-loans-804dfdc18356.herokuapp.com/) | [http://ecotrust-canada.github.io/markdown-toc/](http://ecotrust-canada.github.io/markdown-toc/) | [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
 
-**Bookstore - Loans**  website is developed using Django Framework as part of Portfolio Project 4 for my Diploma in Full Stack Software Development at Code Institute. The purpose of the application is to manage book loan
+**Bookstore - Loans**  website is developed using Django Framework as part of Portfolio Project 4 for my Diploma in Full Stack Software Development at Code Institute. The purpose of the application is to manage book loans: reservations, loa
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -435,7 +435,7 @@ _https://fullstackopen.com/en/part10_ - Exercise 10.3 | Exercise 10.4 | Exercise
 </details>
 
 ## 28. 📁 [The-last-book-page](https://github.com/patchamama/The-last-book-page)
-🗓️ **2023-08-08 → 2025-05-10** · 💻 **Languages:** JavaScript, CSS, Python, HTML · 🧩 **Frameworks:** React, Django
+🗓️ **2023-08-08 → 2025-05-10** · 💻 **Languages:** JavaScript, CSS, Python, HTML · 🧩 **Frameworks:** Django
 🌐 **Deploy / Pages:** [https://drp-api-the-last-book-page-4bcf6d1799b5.herokuapp.com/](https://drp-api-the-last-book-page-4bcf6d1799b5.herokuapp.com/) | [http://ecotrust-canada.github.io/markdown-toc/](http://ecotrust-canada.github.io/markdown-toc/) | [https://react-bootstrap-v4.netlify.app/](https://react-bootstrap-v4.netlify.app/)
 
 The live link can be found **here** To view the README of the backend _API repository_, please click **here**
@@ -467,10 +467,10 @@ ollama pull deepseek-r1 ollama run deepseek-r1
 </details>
 
 ## 30. 📁 [pwa-android-prototype](https://github.com/patchamama/pwa-android-prototype)
-🗓️ **2025-01-15 → 2025-01-21** · 🧩 **Frameworks:** React
+🗓️ **2025-01-15 → 2025-01-21** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
-This repository is my guide to remembering the tips I have learned that allow me to create as simple as possible android applications using pwabuilder.com. The first thing is to have a development environment that allows
+This repository is my guide to remembering the tips I have learned that allow me to create as simple as possible android applications using pwabuilder.com. The first thing is to have a development environment that allows you to quickly work
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -483,7 +483,7 @@ This repository is my guide to remembering the tips I have learned that allow me
 </details>
 
 ## 31. 📁 [react-settings-example-tips](https://github.com/patchamama/react-settings-example-tips)
-🗓️ **2024-11-20 → 2024-11-20** · 🧩 **Frameworks:** React
+🗓️ **2024-11-20 → 2024-11-20** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
 - JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages - The Road to React: The React.js with Hooks in JavaScript Book
@@ -499,7 +499,7 @@ This repository is my guide to remembering the tips I have learned that allow me
 </details>
 
 ## 32. 📁 [devTalles-OpenAI-Ejercicios-practicos-y-asistentes-con-react-nestjs](https://github.com/patchamama/devTalles-OpenAI-Ejercicios-practicos-y-asistentes-con-react-nestjs)
-🗓️ **2024-11-05 → 2024-11-15** · 💻 **Languages:** TypeScript, JavaScript, CSS, HTML · 🧩 **Frameworks:** React, NestJS, FastAPI, Django, Flask, Laravel, Vite, Astro
+🗓️ **2024-11-05 → 2024-11-15** · 💻 **Languages:** TypeScript, JavaScript, CSS, HTML · 🧩 **Frameworks:** NestJS, FastAPI, Django, Flask, Laravel, Vite, Astro
 🌐 **Deploy / Pages:** —
 
 Reto final después de terminar el curso: - [ ] Agregar funcionalidades para el uso de OpenAI tal como corrección de textos en inglés.
@@ -515,7 +515,7 @@ Reto final después de terminar el curso: - [ ] Agregar funcionalidades para el 
 </details>
 
 ## 33. 📁 [devTalles-PWA-Aplicaciones-Web-Progresivas-De-cero-a-experto](https://github.com/patchamama/devTalles-PWA-Aplicaciones-Web-Progresivas-De-cero-a-experto)
-🗓️ **2024-08-16 → 2024-11-14** · 💻 **Languages:** JavaScript, CSS, HTML · 🧩 **Frameworks:** React, Vue, Angular, Django, Vite
+🗓️ **2024-08-16 → 2024-11-14** · 💻 **Languages:** JavaScript, CSS, HTML · 🧩 **Frameworks:** Angular, Django, Vite
 🌐 **Deploy / Pages:** [https://patchamama.github.io/devTalles-PWA-Aplicaciones-Web-Progresivas-De-cero-a-experto/](https://patchamama.github.io/devTalles-PWA-Aplicaciones-Web-Progresivas-De-cero-a-experto/) | [https://tomitm.github.io/appmanifest/](https://tomitm.github.io/appmanifest/)
 
 _https://cursos.devtalles.com/courses/take/PWA_ LIVE APP - Aplicación en Github Pages ya deployed
@@ -531,7 +531,7 @@ _https://cursos.devtalles.com/courses/take/PWA_ LIVE APP - Aplicación en Github
 </details>
 
 ## 34. 📁 [css-tricks](https://github.com/patchamama/css-tricks)
-🗓️ **2024-06-22 → 2024-11-14** · 🧩 **Frameworks:** None detected
+🗓️ **2024-06-22 → 2024-11-14** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
 /* CSS RESET June 2024 */ * { margin: 0; padding: 0; }
@@ -579,7 +579,7 @@ _https://cursos.devtalles.com/courses/take/PWA_ LIVE APP - Aplicación en Github
 </details>
 
 ## 37. 📁 [react-js-testing](https://github.com/patchamama/react-js-testing)
-🗓️ **2024-10-16 → 2024-11-03** · 🧩 **Frameworks:** React, Vite
+🗓️ **2024-10-16 → 2024-11-03** · 💻 **Languages:** — · 🧩 **Frameworks:** Vite
 🌐 **Deploy / Pages:** —
 
 - Exercism Javascript Lean - Custom Hook `useAverage` (useAverage.ts)
@@ -595,7 +595,7 @@ _https://cursos.devtalles.com/courses/take/PWA_ LIVE APP - Aplicación en Github
 </details>
 
 ## 38. 📁 [DevTalles-GIT-GitHub-Todo-un-sistema-de-control-de-versiones-de-cero](https://github.com/patchamama/DevTalles-GIT-GitHub-Todo-un-sistema-de-control-de-versiones-de-cero)
-🗓️ **2024-05-26 → 2024-10-21** · 🧩 **Frameworks:** None detected
+🗓️ **2024-05-26 → 2024-10-21** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** [https://patchamama.github.io/DevTalles-GIT-GitHub-Todo-un-sistema-de-control-de-versiones-de-cero/](https://patchamama.github.io/DevTalles-GIT-GitHub-Todo-un-sistema-de-control-de-versiones-de-cero/)
 
 _https://cursos.devtalles.com/courses/take/git-github-control-versiones_ - Solucionar error que no me permite hacer un `git push` pues mi punto de actualización está atrasado (behind) en relación al remoto.
@@ -614,7 +614,7 @@ _https://cursos.devtalles.com/courses/take/git-github-control-versiones_ - Soluc
 🗓️ **2018-09-30 → 2018-10-04** · 💻 **Languages:** JavaScript, CSS, PHP · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
-Parser of chess websites or ePub chess ebook (without DRM) to view the diagrams in one browser, regenerate diagrams and study/reproduce the games. The easiest way to use it is to download a release, unpack that release, 
+Parser of chess websites or ePub chess ebook (without DRM) to view the diagrams in one browser, regenerate diagrams and study/reproduce the games. The easiest way to use it is to download a release, unpack that release, visit the URL (http:
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -630,7 +630,7 @@ Parser of chess websites or ePub chess ebook (without DRM) to view the diagrams 
 🗓️ **2023-03-30 → 2024-09-08** · 💻 **Languages:** JavaScript, HTML, Dockerfile, CSS · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** [https://patchamama.github.io/Simple-Video_podcast-generator/](https://patchamama.github.io/Simple-Video_podcast-generator/) | [https://validator.w3.org/nu/?doc=https://patchamama.github.io/PP2-Simple-Video_podcast-generator/](https://validator.w3.org/nu/?doc=https://patchamama.github.io/PP2-Simple-Video_podcast-generator/) | [https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpatchamama.github.io%2FPP2-Simple-Video_podcast-generator%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpatchamama.github.io%2FPP2-Simple-Video_podcast-generator%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es)
 
-Welcome to my second project of the Code institute! I'm happy to meet my second challenge in JavaScript programming (+html+css). To meet my challenge I have chosen to create a web tool that allows me to automate the gene
+Welcome to my second project of the Code institute! I'm happy to meet my second challenge in JavaScript programming (+html+css). To meet my challenge I have chosen to create a web tool that allows me to automate the generation of "lines of 
 
 <details>
 <summary>Hidden details (ready to expand)</summary>
@@ -659,7 +659,7 @@ Welcome to my third project of the Code Institute! I'm happy to meet my third ch
 </details>
 
 ## 42. 📁 [eloquent-javascript-es_soluciones](https://github.com/patchamama/eloquent-javascript-es_soluciones)
-🗓️ **2024-03-16 → 2024-08-16** · 🧩 **Frameworks:** None detected
+🗓️ **2024-03-16 → 2024-08-16** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** [https://eloquent-javascript-es.vercel.app/](https://eloquent-javascript-es.vercel.app/) | [https://eloquent-javascript-es.vercel.app/03_functions.html](https://eloquent-javascript-es.vercel.app/03_functions.html) | [https://eloquent-javascript-es.vercel.app/02_program_structure.html](https://eloquent-javascript-es.vercel.app/02_program_structure.html)
 
 Curso en español: https://eloquent-javascript-es.vercel.app/ Curso original en inglés: https://eloquentjavascript.net
@@ -691,7 +691,7 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 </details>
 
 ## 44. 📁 [test-liga-justicia](https://github.com/patchamama/test-liga-justicia)
-🗓️ **2024-07-31 → 2024-08-01** · 🧩 **Frameworks:** None detected
+🗓️ **2024-07-31 → 2024-08-01** · 💻 **Languages:** — · 🧩 **Frameworks:** None detected
 🌐 **Deploy / Pages:** —
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia Pueden hacer lo que quieran...
